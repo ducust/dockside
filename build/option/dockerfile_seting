@@ -1,0 +1,7 @@
+#起源镜像
+FROM ubuntu:latest
+
+#编写者信息
+MAINTAINER DUCUST@OUTLOOK.COM
+
+#设置环境变量信息
